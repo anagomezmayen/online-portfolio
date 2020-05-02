@@ -1,15 +1,15 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### College 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[genArise](https://www.bioconductor.org/packages/release/bioc/html/genArise.html)
+<img src="images/genArise.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### GitHub
 
 - [Project 1 Title](http://example.com/)
 
