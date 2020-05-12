@@ -11,7 +11,7 @@
 
 ### GitHub
 
-- [genArise](https://www.bioconductor.org/packages/release/bioc/html/genArise.html)
+- [genArise](https://www.bioconductor.org/packages/release/bioc/html/genArise.html) A tool to analize dual color ADN microarrays
 - [Kids Math App](https://github.com/Women-inTech/KidsMathApp)
 
 ---
