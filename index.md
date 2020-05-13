@@ -2,7 +2,7 @@
 
 ---
 
-### College 
+### Universal Windows Platform (UWP)
 
 [Sound Board with UWP C#](https://github.com/anagomezmayen/UWPSoundBoard)
 <img src="images/soundBoard.png?raw=true"/>
