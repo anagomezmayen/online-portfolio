@@ -5,7 +5,7 @@
 ### Universal Windows Platform (UWP), C#, UI
 
 [Expense Tracking - Mobile App] (https://github.com/hanbokhe/ExpenseTrackingApp)
-<img src="images/ExpenseTrackingApp.gif?raw=true"/>
+<img src="images/ExpenseTrackingApp.gif?raw=true" height="100"/>
 
 [A basic media player with Universal Windows Platform (UWP)](https://github.com/anagomezmayen/UWPBasicMediaPlayer)
 <img src="images/MediaPlayer.png?raw=true"/>
