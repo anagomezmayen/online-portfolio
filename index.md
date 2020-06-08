@@ -2,17 +2,20 @@
 
 ---
 
-### Universal Windows Platform (UWP)
+### Universal Windows Platform (UWP), C#, UI
+
+[A basic media player with Universal Windows Platform (UWP)](https://github.com/anagomezmayen/UWPBasicMediaPlayer)
+<img src="images/MediaPlayer.png?raw=true"/>
 
 [Sound Board with UWP C#](https://github.com/anagomezmayen/UWPSoundBoard)
 <img src="images/soundBoard.png?raw=true"/>
 
-[A basic media player with Universal Windows Platform (UWP)](https://github.com/anagomezmayen/UWPBasicMediaPlayer)
+
 
 
 ---
 
-### GitHub
+### Others
 
 - [genArise](https://www.bioconductor.org/packages/release/bioc/html/genArise.html) A tool to analize dual color ADN microarrays
 
