@@ -5,7 +5,8 @@
 ### Microservices, Postman, Docker, Stripe
 
 [Events  On Containers Site](https://github.com/anagomezmayen/EventBritesOnContainers)
-<img src="images/events.gif?raw=true" alt="Events on Containers" />
+
+<img src="images/events.gif?raw=true" height="518" alt="Events on Containers" />
 
 ---
 ### Universal Windows Platform (UWP), C#, UI
